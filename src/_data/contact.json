@@ -1,20 +1,16 @@
 {
     "items": [
         {
-            "name": "test@example.com",
-            "link": "mailto:test@example.com"
-        },
-        {
-            "name": "Twitter",
-            "link": "https://twitter.com/…"
+            "name": "rsiyq924@gmail.com",
+            "link": "mailto:rsiyq924@gmail.com"
         },
         {
             "name": "GitHub",
-            "link": "https://github.com/…"
+            "link": "https://github.com/fu4303"
         },
         {
             "name": "CodePen",
-            "link": "https://codepen.io/…"
+            "link": "https://codepen.io/doc22940"
         }
     ]
 }
